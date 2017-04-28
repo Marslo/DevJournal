@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: My Posts
+permalink: /posts/
 ---
 
 <span class="page-tagline">test</span>
@@ -9,6 +9,6 @@ permalink: /download/
   <p>
     <br />
   </p>
-  <div class="download">
+  <div class="posts">
   </div>
 </div>
