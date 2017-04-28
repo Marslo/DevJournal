@@ -2,7 +2,8 @@
 layout: post
 title:  Hello World!
 date:   2017-04-28 19:23:24 +0800
-categories: ["test"]
+categories: ["marslo"]
 ---
 
-Hello Marslo! This is the first post. 
+Awesome Marslo! <br>
+This is my first post.
