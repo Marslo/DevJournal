@@ -10,7 +10,7 @@ title: Marslo's World
 email: marslo.jiao@gmail.com
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>Hello, there!</h3><h2>Welcome to Marslo's World!</h2>"
+description: "<h2>Hello, there!</h2><h1>Welcome to Marslo's World!</h1>"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://marslo.github.io" # the base hostname & protocol for your site
