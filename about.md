@@ -1,14 +1,31 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about me/
 ---
+
 <div class="man-title">
-  UP AND RUNNING WITH DevJournal
+  <center>GitHub Repository
+    <h2><a href="http://github.com/Marslo"><i class="fa fa-github"></i></a></h2>
+  </center>
 </div>
+<div class="intro">
+  <br />
+  <p>
+    Hello there! :)
+    <br />
+    <br /> This is Marslo
+    <br /> I'm a DevOps engineer.
+    <br />
+    <br />
+    <a href="http://facebook.com/hemangkr"><i class="fa fa-facebook"></i></a> &nbsp; &nbsp; &nbsp;<a href="http://github.com/hemangsk"><i class="fa fa-github"></i></a>
+  </p>
+</div>
+
 <div class="manual manual-title">
   Posting
   </div>
+
 <p>  <div class="manual-content">
 
       - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br />
