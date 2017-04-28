@@ -2,6 +2,7 @@
 layout: page
 title: My Posts
 permalink: /posts/
+order: 1
 ---
 
 <span class="page-tagline">My Posts</span>
