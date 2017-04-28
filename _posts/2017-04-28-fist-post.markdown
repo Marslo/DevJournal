@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  hello marslo
-date:   2017-04-28 19:23:24 +0530
-categories: ["test", "linux"]
+title:  Hello World!
+date:   2017-04-28 19:23:24 +0800
+categories: ["test"]
 ---
 
-Hello Marslo!
+Hello Marslo! This is the first post. 
