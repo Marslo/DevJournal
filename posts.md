@@ -4,7 +4,7 @@ title: My Posts
 permalink: /posts/
 ---
 
-<span class="page-tagline">test</span>
+<span class="page-tagline">My Posts</span>
 <div class="post-content-download">
   <p>
     <br />
