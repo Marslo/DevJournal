@@ -31,17 +31,19 @@ If there's any issue you are facing in setting up DevJournal theme, I'm there fo
         ---
     ```
 
+
 ![alt-tag](https://farm8.staticflickr.com/7660/26895189602_170af0a783_o.png)
 ![alt-tag](https://farm8.staticflickr.com/7594/26385450183_37116c6d32_o.png)
+
 
 ####Create new pages, such a breeze! :smile:
 - Create a .md file in the root directory.
 - Name the file with the desired page link name.
 ```
-   posts.md
-```
-```
    about.md
+```
+```
+   design.md
 ```
 - Write the Front Matter and content in the file.
 ```
@@ -77,3 +79,4 @@ That's all folks.
 >Its' all about being community driven.  :bus: :bus: :dash:
 
 Have a great day!  :smile: :smile: :smiley:
+

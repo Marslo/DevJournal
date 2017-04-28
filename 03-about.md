@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about me/
+permalink: /aboutme/
 ---
 
 <div class="man-title">
@@ -18,15 +18,10 @@ permalink: /about me/
     <br /> I'm a DevOps engineer.
     <br />
     <br />
-    <a href="http://github.com/Marslo"><i class="fa fa-github"></i>My Github</a>
+    <a href="http://github.com/Marslo"><i class="fa fa-github"></i> My Github</a> <a href="http://linkedin.com/in/marslo-jiao-3a286399"><i class="fa fa-linkedin"></i> My Linkedin</a>
   </p>
 </div>
 
 <div class="manual manual-title">
-    Posting
-</div>
-
-
-<div class="manual manual-title">
-    Create Pages
+    developing
 </div>

@@ -1,16 +1,13 @@
 ---
-layout: default
+layout: page
+title: My Posts
+permalink: /posts/
+order: 1
 ---
 
-<section>
-  <div class="jumbotron">
-    <div class="container">
-      {{site.description}}
-    </div>
-</div>
-</section>
+<span class="page-tagline">My Posts</span>
+<div class="post-content-download">
 
-<section id="page-content">
   <div class="container">
     <div class="post-list">
       {%  for post in site.posts %}
@@ -38,4 +35,6 @@ layout: default
   </div>
   {% endfor %}
   </div>
-</section>
+<div class="posts">
+</div>
+</div>
