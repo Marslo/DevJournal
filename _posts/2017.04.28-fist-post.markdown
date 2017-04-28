@@ -1,1 +1,8 @@
+---
+layout: post
+title:  hello marslo
+date:   2017-04-28 19:23:24
+categories: test | linux
+---
+
 Hello Marslo!
