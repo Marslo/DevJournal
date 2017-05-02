@@ -7,12 +7,6 @@ permalink: /aboutme/
 <div class="manual manual-title">
 </div>
 
-<div class="man-title">
-  <center>GitHub Repository
-    <h2><a href="http://github.com/Marslo"><i class="fa fa-github"></i></a></h2>
-  </center>
-
-</div>
 <div class="intro">
   <br />
   <p>
@@ -28,3 +22,9 @@ permalink: /aboutme/
 
 </div>
 
+<div class="man-title">
+  <center>GitHub Repository
+    <h2><a href="http://github.com/Marslo"><i class="fa fa-github"></i></a></h2>
+  </center>
+
+</div>
